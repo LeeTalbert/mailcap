@@ -5,7 +5,7 @@ Release:	1
 License:	Public Domain and MIT
 Group:		System/Configuration/Networking 
 URL:		https://pagure.io/mailcap
-Source0:	https://pagure.io/releases/mailcap/%{name}-%{version}.tar.xz
+Source0:	https://pagure.io/releases/mailcap/%{name}-r2-1-54.tar.gz
 Source1:	mime.types
 Patch0:		mailcap-2.0.4.patch
 Patch1:		mailcap-2.0.4-java-web-start.patch
